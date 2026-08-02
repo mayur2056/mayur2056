@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mayur Jagdale
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+AI+Automation+,+Scalable+Backend+Systems." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+AI+Automation and +Scalable+Backend+Systems." alt="Typing SVG" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 # 💫 About Me
 
-I'm an **IT Engineering Student** passionate about building backend applications, AI-powered solutions, and workflow automation. I enjoy learning modern technologies and creating practical software that solves real-world problems.
+I'm an **IT Engineering Student** passionate about building backend applications, AI-powered solutions, and solving real life problems. I enjoy learning modern technologies and creating practical software that solves real-world problems.
 
 ---
 
