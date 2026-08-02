@@ -4,7 +4,7 @@
 
 ### Backend Developer • AI & Automation Enthusiast • IT Engineering Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+AI+Automation+&+Scalable+Backend+Systems." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+AI+Automation+and+Scalable+Backend+Systems." />
 
 </div>
 
@@ -38,7 +38,8 @@ I'm an **IT Engineering Student** passionate about building backend applications
 ## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,react native"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ## ⚙️ Backend
